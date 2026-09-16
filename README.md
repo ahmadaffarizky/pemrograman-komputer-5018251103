@@ -1,5 +1,5 @@
 # Pemrograman Komputer
-Nama : Nama Mahasiswa
+Nama : Ahmad Affarizky
 NRP : 5018251103
 Kelas : Pemrograman Komputer
 ## Repository
